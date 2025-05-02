@@ -4,10 +4,7 @@ import java.util.*;
 import javax.swing.*;
 import javax.swing.Timer;
 public class Project2Runner extends JPanel implements ActionListener {
-    /*
-     * Name: Danielle Eng
-     * Student ID: 501303114
-     * 
+    /* 
      ******** Project Description ********
      * 
      * This project is an interactive game called "Catch the Balls". Players control a basket at the bottom
